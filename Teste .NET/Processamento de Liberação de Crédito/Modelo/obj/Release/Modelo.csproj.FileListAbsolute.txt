@@ -1,0 +1,5 @@
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\bin\Release\Modelo.dll
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\bin\Release\Modelo.pdb
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\obj\Release\Modelo.csproj.CoreCompileInputs.cache
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\obj\Release\Modelo.dll
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\obj\Release\Modelo.pdb

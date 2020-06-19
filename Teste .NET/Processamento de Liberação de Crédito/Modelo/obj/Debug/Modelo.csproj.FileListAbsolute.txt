@@ -1,0 +1,6 @@
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\bin\Debug\Modelo.dll
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\bin\Debug\Modelo.pdb
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\obj\Debug\Modelo.csprojAssemblyReference.cache
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\obj\Debug\Modelo.csproj.CoreCompileInputs.cache
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\obj\Debug\Modelo.dll
+C:\Projetos\Processamento de Liberação de Crédito\Modelo\obj\Debug\Modelo.pdb

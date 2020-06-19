@@ -1,0 +1,10 @@
+C:\Projetos\Processamento de Liberação de Crédito\Console\bin\Release\Console.exe.config
+C:\Projetos\Processamento de Liberação de Crédito\Console\bin\Release\Console.exe
+C:\Projetos\Processamento de Liberação de Crédito\Console\bin\Release\Console.pdb
+C:\Projetos\Processamento de Liberação de Crédito\Console\bin\Release\Modelo.dll
+C:\Projetos\Processamento de Liberação de Crédito\Console\bin\Release\Modelo.pdb
+C:\Projetos\Processamento de Liberação de Crédito\Console\obj\Release\AplicativoConsole.csprojAssemblyReference.cache
+C:\Projetos\Processamento de Liberação de Crédito\Console\obj\Release\AplicativoConsole.csproj.CoreCompileInputs.cache
+C:\Projetos\Processamento de Liberação de Crédito\Console\obj\Release\AplicativoConsole.csproj.CopyComplete
+C:\Projetos\Processamento de Liberação de Crédito\Console\obj\Release\Console.exe
+C:\Projetos\Processamento de Liberação de Crédito\Console\obj\Release\Console.pdb
